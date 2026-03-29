@@ -223,7 +223,7 @@ Moreover, <green>$d_H(\mathcal S(\mathcal R_\beta^\varepsilon(S)), G)<\left(\bet
 ## Geometric Latschev in Limits [@Kawamura2026-ob]
 - $X\subset\mathbb R^N$ an *ANR*
 - For each $\beta>0$, consider the direct limit group: $\lim_{S\subset X, \text{finite}}\pi_k(\mathcal S(\mathcal R_\beta(S)))$
-- As $\beta\to0$, the inverse limit group of these direct limits is isomorphic to $\pi_k(\mathcal R_\beta(X))$.
+- As $\beta\to0$, the inverse limit group of these direct limits is isomorphic to $\pi_k(X)$.
 :::
 
 - This is a Geometric Latschev's theorem, but very much qualitative!
